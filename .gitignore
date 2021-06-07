@@ -6,3 +6,4 @@
 /java/
 /target/
 config.json
+gradle.properties
